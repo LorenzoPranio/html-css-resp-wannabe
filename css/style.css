@@ -138,4 +138,12 @@ img {
  /*   Responsive Mobile 480px   */
 
  @media screen and (max-width: 480px){
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .lessons .col{
+        width: 100%;
+        margin: 20px;
+    }
  }
