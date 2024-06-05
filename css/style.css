@@ -127,3 +127,15 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+/*   Responsive Tablet 768px   */
+
+ @media screen and (max-width: 768px){
+    .container{
+        width: 100%;
+    }
+ }
+ 
+ /*   Responsive Mobile 480px   */
+
+ @media screen and (max-width: 480px){
+ }
