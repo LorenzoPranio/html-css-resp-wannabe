@@ -144,6 +144,10 @@ img {
     }
     .lessons .col{
         width: 100%;
-        margin: 20px;
+        margin: 30px;
+    }
+    .steps .col{
+        width: 100%;
+        margin: 30px;
     }
  }
